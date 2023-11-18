@@ -16,7 +16,6 @@ public class Exercise1 {
         System.out.println("\t\t 4.AVERAGE OF A STUDENT");
         System.out.println("\t\t 5.DISPLAY STUDENTS");
         System.out.println("\t\t E.EXIT");
-        System.out.println("\t\t INPUT AN OPTION:");
     }
     public static void main(String[] args)
     {
