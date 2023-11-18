@@ -8,6 +8,8 @@ public class Student
     private String name;
     private int ID;
     private HashMap<String, Integer> grades;
+    private int NOTEPICAT;
+    public String NUMEPROST;
 
     Student(int ID,String name)
     {
